@@ -1,0 +1,12 @@
+type,series,model,diagonal,screen type,country,price
+Telephone,G-200,Motorola,none,Amoled,none,500
+TV,,none,42,LED,China,1700
+TV,RTI-14,none,25,LED,China,1500
+Telephone,S31,Samsung,none,Gorilla-glass,none,800
+TV,L-450,none,32,LED,Japan,2000
+Telephone,FTC-88,LG,none,LED,none,700
+TV,85KS,none,45,LED,USA,2500
+Telephone,M51,Nokia,none,Gorilla-glass,none,650
+TV,QTV-1000,none,50,LED,Ukraine,3000
+Telephone,F123,Samsung,none,LED,none,400
+TV,MTV-789,none,42,LED,China,1800
